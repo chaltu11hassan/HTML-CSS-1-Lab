@@ -1,0 +1,47 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(248, 219, 181);
+   
+}
+
+h1{
+    color: rgba(44, 33, 33, 0.888);
+    
+}
+h1 {text-align: center;}
+
+
+.header{
+    height: 100px;
+    width: 100%;
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5dGyxp7xdifdcaHjoBfsy5_lXQdE9A7yr2Q&usqp=CAU)
+}
+
+span{
+    color:rgb(0, 5, 5);
+    background-color: blanchedalmond;
+    text-align:right
+}
+
+
+.right_nav{
+    color: rgb(1, 9, 16);
+    font-size: 40;
+    font-style: italic;
+    display: inline-block;
+    margin : 10px;
+    font-weight: bold;
+   
+  
+}
+
+.main content{
+    color: black;
+    font-weight: bolder;
+    background-color: rgb(147, 104, 11);
+}
+
+
+
